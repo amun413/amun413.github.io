@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background-image: url(https://unsplash.com/photos/4tGG0xDqTlY);
+    background-color: #cccccc;
+    background-image: radial-gradient(red, yellow, green);
   }
   div {
     margin-top: 15px;
