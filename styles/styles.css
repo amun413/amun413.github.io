@@ -1,5 +1,11 @@
 body {
     text-align: center;
     background-color: #cccccc;
-    background-image: radial-gradient(red, yellow, green);
   }
+div {
+    #grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: radial-gradient(red, yellow, green);
+}
+}
