@@ -40,24 +40,7 @@ h1:after {
   text-shadow: -1px -1px 0 #2f3e9c, 1px -1px 0 #2f3e9c, -1px 1px 0 #2f3e9c, 1px 1px 0 #2f3e9c, 1px 0px 0px #f98ca4, 0px 1px 0px #f98ca4, 2px 1px 0px #f98ca4, 1px 2px 0px #f98ca4, 3px 2px 0px #f98ca4, 2px 3px 0px #f98ca4, 4px 3px 0px #f98ca4, 3px 4px 0px #f98ca4, 5px 4px 0px #f98ca4, 3px 5px 0px #2f3e9c, 6px 5px 0px #2f3e9c, -1px 2px 0 black, 0 3px 0 #2f3e9c, 1px 4px 0 #2f3e9c, 2px 5px 0px #2f3e9c, 2px -1px 0 #2f3e9c, 3px 0 0 #2f3e9c, 4px 1px 0 #2f3e9c, 5px 2px 0px #2f3e9c, 6px 3px 0 #2f3e9c, 7px 4px 0 #2f3e9c;
 }
 
-a {
-  color: #cc3300;
-  padding-left: 14px;
-  font-weight: bold;
-  background-image: url(images/instagram-2.png);
-  background-position: 0 2px;
-  background-repeat: no-repeat;
-  }
-a:hover {
-  color: #333333;
-  padding-left: 14px;
-  font-weight: bold;
-  background-image: url(images/instagram-2.png);
-  background-position: 0 -11px;
-  background-repeat: no-repeat;
-  }
-
-footer, icons, copyright {
+footer {
   font-family: 'CoreCircus', sans-serif;
   font-style: italic;
   font-align: center;
