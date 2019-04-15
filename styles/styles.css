@@ -57,7 +57,7 @@ a:hover {
   background-repeat: no-repeat;
   }
 
-footer{
+footer, icons, copyright {
   font-family: 'CoreCircus', sans-serif;
 }
 /* Footer */
