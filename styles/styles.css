@@ -59,6 +59,8 @@ a:hover {
 
 footer, icons, copyright {
   font-family: 'CoreCircus', sans-serif;
+  font-style: italic;
+  font-align: center;
 }
 /* Footer */
 
