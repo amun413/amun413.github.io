@@ -3,17 +3,3 @@ body {
     background-color: #cccccc;
     background-image: radial-gradient(red, yellow, green);
   }
-  div {
-    margin-top: 15px;
-  }
-  
-  .image-section {
-    display: flex;
-    justify-content: center;
-  }
-  
-  .section-style {
-    margin-right: 25px;
-    margin-left: 25px;
-    background-color: white;
-  }
