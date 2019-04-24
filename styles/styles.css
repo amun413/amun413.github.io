@@ -55,6 +55,13 @@ footer, ul.icons {
 	display: inline-block;
 }
 
+#icons-container-right
+{
+	position: relative;
+	top: 8px;
+	float: right;
+}
+
 .icon-linkedin
 {
 	background-image: url(../536463.png);
