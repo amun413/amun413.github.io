@@ -59,10 +59,47 @@ h1:after {
 
 .icon-linkedin
 {
-	background-image: url(../../536463.png);
+	background-image: url(536463.png);
 }
 
 .icon-instagram
 {
-	background-image: url(../../icon-instagram.png);
+	background-image: url(icon-instagram.png);
+}
+
+img
+{ 
+	border-style: none;
+}
+
+.text
+{
+	position: relative;
+	font-family: Arial;
+	font-size: 14px;
+	color: #cccccc;
+	line-height: 20px;
+	margin-bottom: 18px;
+}
+
+.text a
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.title
+{
+	position: relative;
+	font-family: miso-bold;
+	color: #ffffff;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+#title-anna
+{
+	top: 12px;
+	float: left;
 }
