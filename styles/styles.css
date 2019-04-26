@@ -115,23 +115,23 @@ header
 
 .icon-email
 {
-	background-image: url(img/icon-email.resized.png);
+	background-image: url(../img/icon-email.resized.png);
 }
 
 
 .icon-instagram
 {
-	background-image: url(img/icon-instagram.resized.png);
+	background-image: url(../img/icon-instagram.resized.png);
 }
 
 .icon-linkedin
 {
-	background-image: url(img/icon-linkedin.resized.png);
+	background-image: url(../img/icon-linkedin.resized.png);
 }
 
 .icon-github
 {
-	background-image: url(img/icon-github.resized.png);
+	background-image: url(../img/icon-github.resized.png);
 }
 
 img
