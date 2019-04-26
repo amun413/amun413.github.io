@@ -118,7 +118,6 @@ header
 	background-image: url(../img/icon-email.resized.png);
 }
 
-
 .icon-instagram
 {
 	background-image: url(../img/icon-instagram.resized.png);
@@ -132,6 +131,11 @@ header
 .icon-github
 {
 	background-image: url(../img/icon-github.resized.png);
+}
+
+.icon-vsco
+{
+	background-image: url(../img/icon-vsco.resized.png);
 }
 
 img
